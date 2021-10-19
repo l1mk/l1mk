@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**l1mk/l1mk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :zap: Music Lover, Old School Gamer, Book eater, Creative Soul and in a mission to serve others with a huge smile
+- 🔭 I’m currently working on sharpening my javascripts skills
+- 🌱 I’m currently learning a bit of old java and aws to have a wider understanding of a full stack
+- 👯 I’m looking to get into a full time job as a developer, where I can learn and grow 
+- 🤔 I’m looking for help with nailing a software engineer role technical test
+- 📫 How to reach me: 
+  - :computer: juan.siu@gmail.com
+  - :telephone_receiver: skype me at juan.s1u
+  - :office: [LinkedIn] (https://www.linkedin.com/in/juanesiu/)
+  
 
-Here are some ideas to get you started:
+[![Juan Siu's github stats](https://github-readme-stats.vercel.app/api?username=l1mk&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1mk)](https://github.com/anuraghazra/github-readme-stats)

@@ -13,4 +13,4 @@
 
 [![Juan Siu's github stats](https://github-readme-stats.vercel.app/api?username=l1mk&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1mk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1mk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

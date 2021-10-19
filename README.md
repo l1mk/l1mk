@@ -11,6 +11,6 @@
   - :telephone_receiver: Skype me at juan.s1u
 
 
-[![Juan Siu's github stats](https://github-readme-stats.vercel.app/api?username=l1mk&count_private=true&show_icons=true&theme=solarized-light&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Juan Siu's github stats](https://github-readme-stats.vercel.app/api?username=l1mk&count_private=true&show_icons=true&theme=darcula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1mk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

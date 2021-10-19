@@ -10,7 +10,7 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/juanesiu/)
   - :telephone_receiver: Skype me at juan.s1u
 
-
-<div style="text-align: left;">[![Juan Siu's github stats](https://github-readme-stats.vercel.app/api?username=l1mk&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)</div>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1mk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Juan Siu's github stats](https://github-readme-stats.vercel.app/api?username=l1mk&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+

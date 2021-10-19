@@ -1,4 +1,4 @@
-<img src="https://github.com/l1mk/l1mk/blob/main/header%20hello%20world.png">
+<img src="https://github.com/l1mk/l1mk/blob/main/hellow%20world-01.png">
 
 - :zap: Music Lover, Old School Gamer, Book eater, Creative Soul and in a mission to serve others with a huge smile
 - 🔭 I’m currently working on sharpening my javascripts skills

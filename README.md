@@ -9,9 +9,7 @@
   - :computer: juan.siu@gmail.com
   - :office: [LinkedIn](https://www.linkedin.com/in/juanesiu/)
   - :telephone_receiver: Skype me at juan.s1u
-  - :calling: Slack me at 
 
-  
 
 [![Juan Siu's github stats](https://github-readme-stats.vercel.app/api?username=l1mk&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 

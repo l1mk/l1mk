@@ -1,10 +1,9 @@
 <img src="https://github.com/l1mk/l1mk/blob/main/hellow%20world-01.png">
 
 - :zap: Music Lover, Old School Gamer, Book eater, Creative Soul and in a mission to serve others with a huge smile
-- 🔭 I’m currently working on sharpening my javascripts skills
-- 🌱 I’m currently learning a bit of old java and aws to have a wider understanding of a full stack
-- 👯 I’m looking to get into a full time job as a developer, where I can learn and grow 
-- 🤔 I’m looking for help with nailing a software engineer role technical test and meeting more developers in the Houston area
+- 🔭 I’m currently desinging my own video game
+- 🌱 I’m currently using a lot more AI and try to take advantage of their agentic capabilities
+- 👯 I’m looking to get into a part time or full time position in a tech company or a video game company
 - 📫 How to reach me: 
   - :computer: juan.siu@gmail.com
   - :office: [LinkedIn](https://www.linkedin.com/in/juanesiu/)
